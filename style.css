@@ -1,5 +1,5 @@
 body {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 
 body {
@@ -20,6 +20,8 @@ nav {
 
 ul {
   text-align: center;
+  margin: 0;
+  padding: 0;
 }
 
 li {
@@ -65,13 +67,36 @@ li a {
   opacity: 0.9;
 }
 
-h1,
 p {
   text-align: center;
   font-size: medium;
-  padding-top: 5px;
+  padding: 10px 0;
 }
 
 #homeDiv {
   height: 90vh;
+}
+h1 {
+  font-size: 20px;
+  text-align: center;
+  padding-top: 10px;
+}
+.Devyn,
+.Craig {
+  border: 5px solid rgba(87, 111, 35, 255);
+  border-radius: 1em;
+  height: 40%;
+  padding: 70px;
+  font-size: 70px;
+  letter-spacing: 0.1em;
+}
+
+a:link,
+a:visited {
+  color: black;
+}
+
+.homeTitle {
+  font-size: 50px;
+  letter-spacing: 0.1em;
 }
