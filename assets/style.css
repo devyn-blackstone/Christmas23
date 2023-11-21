@@ -7,6 +7,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
+  background-repeat: repeat-x;
 }
 
 nav {
@@ -118,14 +119,20 @@ a:hover {
 
   #homeDiv {
     height: max-content;
+    /* padding: 20px 0; */
   }
 
   .homeTitle {
-    font-size: 35px;
+    font-size: 30px;
   }
 
   li {
     font-size: 25px;
     display: block;
+    padding: 10px 0;
+  }
+
+  .pageTitle {
+    font-size: 20px;
   }
 }
