@@ -3,7 +3,7 @@ body {
 }
 
 body {
-  background-image: url(assets/images/cookies.jpeg);
+  background-image: url(images/cookies.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -98,5 +98,10 @@ a:visited {
 
 .homeTitle {
   font-size: 50px;
+  letter-spacing: 0.1em;
+}
+
+.pageTitle {
+  font-size: 30px;
   letter-spacing: 0.1em;
 }
