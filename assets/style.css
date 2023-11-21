@@ -109,3 +109,22 @@ a:visited {
 a:hover {
   font-size: 25px;
 }
+
+@media only screen and (max-width: 768px) {
+  .Devyn,
+  .Craig {
+    font-size: 20px;
+  }
+
+  #homeDiv {
+    height: max-content;
+  }
+
+  .homeTitle {
+    font-size: 35px;
+  }
+
+  li {
+    font-size: 25px;
+  }
+}
