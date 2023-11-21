@@ -74,7 +74,7 @@ p {
 }
 
 #homeDiv {
-  height: 90vh;
+  height: max-content;
 }
 h1 {
   font-size: 20px;
@@ -126,5 +126,6 @@ a:hover {
 
   li {
     font-size: 25px;
+    display: block;
   }
 }
