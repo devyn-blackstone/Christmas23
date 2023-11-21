@@ -5,9 +5,8 @@ body {
 body {
   background-image: url(images/cookies.jpeg);
   background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
   background-repeat: repeat-x;
+  background-position: center center;
 }
 
 nav {
