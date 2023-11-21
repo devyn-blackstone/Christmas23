@@ -3,7 +3,7 @@ body {
 }
 
 body {
-  background-image: url(/assets/images/cookies.jpeg);
+  background-image: url(assets/images/cookies.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
